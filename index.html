@@ -1,7 +1,10 @@
 <!doctype html>
 <html>
   <head>
+  
+  <title>joheenc</title>
   <link type='text/css' rel='stylesheet' href='stylesheets\styles.css'
+  <script src="javascripts\processing.js"></script>
 
   </head>
   <body style='background-color:bisque'>
@@ -18,8 +21,80 @@
       </h1>
       <p>this is joheen&#39;s github page</p>
       <p>and <a href="https://plus.google.com/u/0/101607105102245947109/posts">this is his google+</a></p>
-      <p>this webpage is currently under development.</p>
-      <p>come back later and maybe i'll have done something with it</p>
+      <p>that's right motherfuckers.</p>
+	  <p>i'm officially a professional memer now.</p>
       <img src = "images\mudkip.gif"/>
+	  <script type="text/processing">
+	
+	PImage bg, start, kappa, wall, gameover;
+	PFont f;
+	int gamestate = 1, y = 0, vy = 1, x, score;
+	int[] wallx = new int[2], wally = new int[2], passed = new int[2];
+      void setup() {
+		size(640, 480);
+		  bg = loadImage("images\bg.png");
+		  start = loadImage("images\start.png");
+		  kappa = loadImage("images\kappa.png");
+		  wall = loadImage("images\bgwall.png");
+		  gameover = loadImage("images\gameover.png");
+		  gamestate = 1;
+		  x = width/2 - 100;
+		  score = 0;
+		  f = createFont("Arial", 16, true);
+		  textFont(f, 42);
+      }
+
+      void draw() {
+		if (gamestate == 0) {
+			image(bg, 0, 0);
+			image(kappa, x, y);
+			for (int i = 0; i < 2; i++) {
+			  image(wall, wallx[i], wally[i]);
+			  image(wall, wallx[i], wally[i]-650);
+			  wallx[i] -= 3;
+			  if (wallx[i] <= -42) {
+				wallx[i] = width;
+				wally[i] = int(random(169, height-69));
+			  }
+			}
+			for (int sixt9 = 0; sixt9 < 2; sixt9++) {
+			  if ((y <= wally[sixt9] -170 || y +42 >= wally[sixt9]) && (x+42 >= wallx[sixt9] && x <= wallx[sixt9] + 42))
+				gamestate = 69;
+			}
+			for (int i = 0; i < 2; i++) {
+			  if (wallx[i] < x && passed[i] == 0) {
+				score++;
+				passed[i] = 1;
+			  }
+			  if (wallx[i] == width)
+				passed[i] = 0;
+			}
+			vy += 1;
+			y += vy;
+			fill(0);
+			text(score, 21, 69);
+			}
+		else if (gamestate == 1) {
+			image(start, 0, 0);
+		}
+		else {
+			image(gameover, 0, 0);
+			text("final score : " + score, 10, 350);
+		}
+      }
+
+      void mousePressed() {
+		vy = -15;
+		if (!(gamestate == 0)) {
+			wallx[0] = width;
+			wallx[1] = width + width/2 + 21;
+			wally[0] = wally[1] = int(random(169, height-69));
+			passed[0] = passed[1] = 0;
+			y = height/2;
+			gamestate = 0;
+			score = 0;
+		}
+      }
+    </script>
   </body>
 </html>
