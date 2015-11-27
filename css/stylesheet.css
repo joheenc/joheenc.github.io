@@ -1,0 +1,81 @@
+.blink {
+    animation-name: blink;
+    animation-iteration-count: infinite;
+}
+.blink:nth-child(1) {    /*heartbeat*/
+    animation-duration: 1s;
+}
+.blink:nth-child(2) {   /*baby is born*/
+    animation-duration: 0.25s;
+}
+.blink:nth-child(3) {   /*person dies*/
+    animation-duration: 0.56s;
+}
+.blink:nth-child(4) {   /*new facebook account*/
+    animation-duration: 256ms;
+}
+.blink:nth-child(5) {   /*new twitter account*/
+    animation-duration: 314ms;
+}
+.blink:nth-child(6) {   /*new instagram account*/
+    animation-duration: 1.35s;
+}
+.blink:nth-child(7) {   /*daomain registered*/
+    animation-duration: 1.31s;
+}
+.blink:nth-child(8) {   /*gets married*/
+    animation-duration: 1.29s;
+}
+.blink:nth-child(9) {   /*gets divorced*/
+    animation-duration: 6.14s;
+}
+.blink:nth-child(10) {   /*iphone sold*/
+    animation-duration: 437ms;
+}
+.blink:nth-child(11) {   /*mac sold*/
+    animation-duration: 1.71s;
+}
+.blink:nth-child(12) {   /*ipad sold*/
+    animation-duration: 751ms;
+}
+.blink:nth-child(13) {   /*chinese car*/
+    animation-duration: 2.18s;
+}
+.blink:nth-child(14) {   /*chinese car*/
+    animation-duration: 2.18s;
+}
+.blink:nth-child(15) {   /*japanese car*/
+    animation-duration: 4.41s;
+}
+.blink:nth-child(16) {   /*german car*/
+    animation-duration: 5.37s;
+}
+.blink:nth-child(17) {   /*south korean car*/
+    animation-duration: 7.47s;
+}
+.blink:nth-child(18) {   /*indian car*/
+    animation-duration: 10.39s;
+}
+.blink:nth-child(19) {   /*us car*/
+    animation-duration: 10.63s;
+}
+
+@keyframes blink {
+    0% {
+        opacity: 1;
+    }
+    30% {
+        opacity: 1;
+    }
+    60% {
+        opacity: 0.2
+    }
+    100% {
+        opacity: 0.2
+    }
+}
+
+@font-face {
+    font-family: customfont;
+    src: url('font.ttf');
+}
