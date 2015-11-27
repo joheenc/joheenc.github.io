@@ -56,8 +56,17 @@
 .blink:nth-child(18) {   /*us car*/
     animation-duration: 10.63s;
 }
-.blink:nth-child(18) {   /*$1000 video games*/
+.blink:nth-child(19) {   /*$1000 video games*/
     animation-duration: 1.25s;
+}
+.blink:nth-child(20) {   /*$1000 firearms*/
+    animation-duration: 2.1s;
+}
+.blink:nth-child(21) {   /*$1000 books*/
+    animation-duration: 2.07s;
+}
+.blink:nth-child(22) {   /*coffee at starbucks*/
+    animation-duration: 10.54ms;
 }
 
 @keyframes blink {
