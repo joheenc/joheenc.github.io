@@ -41,22 +41,19 @@
 .blink:nth-child(13) {   /*chinese car*/
     animation-duration: 2.18s;
 }
-.blink:nth-child(14) {   /*chinese car*/
-    animation-duration: 2.18s;
-}
-.blink:nth-child(15) {   /*japanese car*/
+.blink:nth-child(14) {   /*japanese car*/
     animation-duration: 4.41s;
 }
-.blink:nth-child(16) {   /*german car*/
+.blink:nth-child(15) {   /*german car*/
     animation-duration: 5.37s;
 }
-.blink:nth-child(17) {   /*south korean car*/
+.blink:nth-child(16) {   /*south korean car*/
     animation-duration: 7.47s;
 }
-.blink:nth-child(18) {   /*indian car*/
+.blink:nth-child(17) {   /*indian car*/
     animation-duration: 10.39s;
 }
-.blink:nth-child(19) {   /*us car*/
+.blink:nth-child(18) {   /*us car*/
     animation-duration: 10.63s;
 }
 
