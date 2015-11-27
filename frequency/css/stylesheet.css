@@ -56,6 +56,9 @@
 .blink:nth-child(18) {   /*us car*/
     animation-duration: 10.63s;
 }
+.blink:nth-child(18) {   /*$1000 video games*/
+    animation-duration: 1.25s;
+}
 
 @keyframes blink {
     0% {
