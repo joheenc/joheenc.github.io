@@ -298,6 +298,13 @@
 .fa-ul > li {
   position: relative;
 }
+.link
+{
+   color:black;
+   text-decoration: underline;
+   text-decoration-color: black;
+   background-color: none;
+}
 .fa-li {
   position: absolute;
   left: -2.14285714em;
