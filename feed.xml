@@ -1,0 +1,12 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+<link href="https://joheenc.github.io/feed.xml" rel="self" type="application/atom+xml"/>
+<link href="https://joheenc.github.io/" rel="alternate" type="text/html"/>
+<updated>2020-09-27T23:47:02-04:00</updated>
+<id>https://joheenc.github.io/feed.xml</id>
+<title type="html">Joheen Chakraborty</title>
+<author>
+<name>Joheen Chakraborty</name>
+<email>jc5110@columbia.edu</email>
+</author>
+</feed>
