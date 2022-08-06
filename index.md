@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at MIT working in observational high-energy astrophysics.
+I'm a Ph.D. student at MIT working in observational high-energy astrophysics.
 
 <!---
 ## Research Interests
