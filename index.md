@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a Ph.D. student at MIT working in observational high-energy astrophysics. I grew up in New Jersey, and studying astrophysics and computer science as an undergrad at Columbia.
+I'm a first-year Ph.D. student at MIT working in observational high-energy astrophysics. I grew up in New Jersey, and studied astrophysics and computer science as an undergrad at Columbia.
 
 <!---
 ## Research Interests
