@@ -15,7 +15,7 @@ I'm a Ph.D. student at MIT working in observational high-energy astrophysics.
 
 ## News
 
-- **[Mar. 2022]** QPE discovery featured in a [[AAS Nova article](https://aasnova.org/2022/03/02/a-potential-new-source-of-quasi-periodic-eruptions)]!
+- **[Mar. 2022]** QPE discovery featured in a [AAS Nova article](https://aasnova.org/2022/03/02/a-potential-new-source-of-quasi-periodic-eruptions)!
 
 ## Selected Publications
 
