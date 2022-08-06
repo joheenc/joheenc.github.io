@@ -31,6 +31,6 @@ I'm a Ph.D. student at MIT working in observational high-energy astrophysics.
   <br>
   **Joheen Chakraborty**, Adam Wheeler, David Kipping
   <br>
-  MNRAS, **Dec. 2020**.
+  MNRAS, Dec. 2020.
   <br>
   [[PDF](https://arxiv.org/pdf/2009.10232.pdf)] [[ADS](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.4011C/abstract)]
