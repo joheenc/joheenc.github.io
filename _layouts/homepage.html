@@ -57,6 +57,11 @@
       </section>
       <footer>
         <div class="social-icons">
+          {% if site.ads %}
+          <a href="{{ site.ads}}" target="_blank">
+            <i class="ai ai-ads" style="font-size:1.6rem"></i>
+          </a>
+          {% endif %}
           {% if site.github_link %}            
           <a href="{{ site.github_link }}" target="_blank">
             <i class="fab fa-github"></i>
