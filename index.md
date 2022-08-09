@@ -6,12 +6,11 @@ layout: homepage
 
 I'm a first-year Ph.D. student at MIT working in observational high-energy astrophysics. I grew up in New Jersey, and studied astrophysics and computer science as an undergrad at Columbia.
 
-<!---
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
--->
+I'm a first-year (see above) so take these with a grain of salt. For now I'm working on:
+- X-ray spectroscopy, time-domain astronomy, black holes and AGN (especially variable ones)
+- High performance computing, data processing algorithms
 
 ## News
 
