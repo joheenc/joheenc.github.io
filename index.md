@@ -25,6 +25,14 @@ I'm a first-year (see above) so don't take these too seriously. For now I'm work
   Astrophysical Journal Letters, Nov. 2021.
   <br>
   [[PDF](https://arxiv.org/pdf/2110.10786.pdf)] [[ADS](https://ui.adsabs.harvard.edu/abs/2021ApJ...921L..40C/abstract)]
+  
+- **Transit Duration and Timing Variations from Binary Planets**
+  <br>
+  **Joheen Chakraborty** & David Kipping
+  <br>
+  MNRAS, Dec. 2022.
+  <br>
+  [[PDF](https://arxiv.org/pdf/2212.08078.pdf)] [[ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.3369C/abstract)]
 
 - **Hundreds of new periodic signals detected in the first year of TESS with the Weird Detector**
   <br>
