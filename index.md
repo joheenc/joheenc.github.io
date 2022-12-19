@@ -8,9 +8,10 @@ I'm a first-year Ph.D. student at MIT working in observational high-energy astro
 
 ## Research Interests
 
-I'm a first-year (see above) so don't take these too seriously. For now I'm working on:
-- AGN and black holes (especially variable ones), X-ray spectroscopy, time-domain astronomy 
+I'm a first-year (see above) so don't take these too seriously. Currently I'm working on:
+- Accreting black holes in AGN (especially variable ones), X-ray spectroscopy, time-domain astronomy 
 - High performance computing, data processing algorithms, survey science
+As an undergrad, I also worked on exoplanets, but those days are mostly behind me.
 
 ## News
 
