@@ -9,7 +9,6 @@ I'm a first-year Ph.D. student at MIT working in observational high-energy astro
 ## Research Interests
 
 I'm a first-year (see above) so don't take these too seriously. Currently I'm working on:
-- Accretion onto compact objects across all mass scales (CVs, XRBs, and AGN)
 - AGN/SMBH transients (X-ray quasi-periodic eruptions/QPEs, changing-look AGN, tidal disruption events, and ambiguous nuclear transients)
 - High performance computing, data processing algorithms, survey science
 
