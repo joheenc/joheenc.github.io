@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a first-year Ph.D. student at MIT working in observational high-energy astrophysics. I grew up in New Jersey, and studied astrophysics and computer science as an undergrad at Columbia. Here is a [nice poems](https://joheenc.github.io/elson.pdf) summarizing how I feel about my work.
+I'm a first-year Ph.D. student at MIT working in observational high-energy astrophysics. I grew up in New Jersey, and studied astrophysics and computer science as an undergrad at Columbia. Here is a [nice poem](https://joheenc.github.io/elson.pdf) summarizing how I feel about my work.
 
 ## Research Interests
 
