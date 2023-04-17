@@ -12,7 +12,7 @@ I'm a first-year (see above) so don't take these too seriously. Currently I'm wo
 - AGN/SMBH transients (X-ray quasi-periodic eruptions/QPEs, changing-look AGN, tidal disruption events, and ambiguous nuclear transients)
 - High performance computing, data processing algorithms, survey science
 
-As an undergrad, I also worked on exoplanets, but those days are mostly behind me.
+As an undergrad, I also worked on exoplanets, but those days are behind me.
 
 ## News
 
