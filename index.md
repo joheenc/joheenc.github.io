@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a first-year Ph.D. student at MIT working in observational high-energy astrophysics. I grew up in New Jersey, and studied astrophysics and computer science as an undergrad at Columbia.
+I'm a first-year Ph.D. student at MIT working in observational high-energy astrophysics. I grew up in New Jersey, and studied astrophysics and computer science as an undergrad at Columbia. Here are [two nice poems](https://joheenc.github.io/poems.pdf) summarizing how I feel about my work.
 
 ## Research Interests
 
