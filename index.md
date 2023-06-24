@@ -9,7 +9,7 @@ I'm a first-year Ph.D. student at MIT working in observational high-energy astro
 ## Research Interests
 
 I'm a first-year (see above) so don't take these too seriously. Currently I'm working on:
-- AGN/SMBH transients (X-ray quasi-periodic eruptions/QPEs, changing-look AGN, tidal disruption events, and ambiguous nuclear transients)
+- SMBH transients (quasi-periodic eruptions, tidal disruption events, and nuclear transients)
 - High performance computing, data processing algorithms, survey science
 
 As an undergrad, I also worked on exoplanets, but those days are behind me.
