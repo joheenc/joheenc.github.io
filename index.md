@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I'm a first-year Ph.D. student at MIT working in observational high-energy astrophysics. I grew up in New Jersey, and studied astrophysics and computer science as an undergrad at Columbia. Here is a [nice poem](https://joheenc.github.io/elson.pdf) summarizing how I feel about my work.
+I'm a second-year Ph.D. student at MIT working in observational high-energy astrophysics. I grew up in New Jersey, and studied astrophysics and computer science as an undergrad at Columbia.
 
 ## Research Interests
 
-I'm a first-year (see above) so don't take these too seriously. Currently I'm working on:
+Currently I'm working on:
 - SMBH transients (quasi-periodic eruptions, tidal disruption events, and nuclear transients)
 - High performance computing, data processing algorithms, survey science
 
