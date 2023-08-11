@@ -10,6 +10,7 @@ I'm a second-year Ph.D. student at MIT working in observational high-energy astr
 
 Currently I'm working on:
 - SMBH transients (quasi-periodic eruptions, tidal disruption events, and nuclear transients)
+- Ultracompact X-ray binaries
 - High performance computing, data processing algorithms, survey science
 
 As an undergrad, I also worked on exoplanets, but those days are behind me.
