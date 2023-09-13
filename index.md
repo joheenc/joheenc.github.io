@@ -9,8 +9,8 @@ I'm a second-year Ph.D. student at MIT working in observational high-energy astr
 ## Research Interests
 
 Currently I'm working on:
-- SMBH transients (quasi-periodic eruptions, tidal disruption events, and nuclear transients)
-- Ultracompact X-ray binaries
+- Supermassive black hole transients (quasi-periodic eruptions and tidal disruption events)
+- Ultracompact X-ray and white dwarf binaries
 - High performance computing, data processing algorithms, survey science
 
 As an undergrad, I also worked on exoplanets, but those days are behind me.
