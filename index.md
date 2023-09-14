@@ -13,7 +13,8 @@ Currently I'm working on:
 - Ultracompact white dwarf binaries (these probe accretion at an entirely different mass scale, and are of interest as both low-frequency gravitational wave sources and possible progenitors of Type Ia supernovae)
 - High performance computing, data processing algorithms, survey science
 
-A general theme of my research is studying compact object accretion and binaries across the mass scale. These systems can yield rich insights into atomic physics, plasma physics, and strong-field gravity, which are all exciting questions to me.
+A general theme of my research is studying compact object accretion and binaries across the mass scale. These systems can yield rich insights into atomic physics, plasma physics, and strong-field gravity, which are all exciting questions to me.\\ 
+
 
 As an undergrad, I also worked on exoplanets, but those days are behind me.
 
