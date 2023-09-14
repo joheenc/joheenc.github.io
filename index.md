@@ -14,6 +14,7 @@ Currently I'm working on:
 - High performance computing, data processing algorithms, survey science
 
 A general theme of my research is studying compact object accretion and binaries across the mass scale. These systems can yield rich insights into atomic physics, plasma physics, and strong-field gravity, which are all exciting questions to me.
+
 As an undergrad, I also worked on exoplanets, but those days are behind me.
 
 ## News
