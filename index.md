@@ -10,8 +10,9 @@ I'm a second-year Ph.D. student at MIT working in observational high-energy astr
 
 Currently I'm working on:
 - Supermassive black hole transients (quasi-periodic eruptions, which may be an electromagnetic counterpart to [EMRIs](https://en.wikipedia.org/wiki/Extreme_mass_ratio_inspiral); and tidal disruption events, which are exciting laboratories to study super-Eddington accretion and general relativistic effects of massive BHs)
-- Ultracompact white dwarf binaries (these probe accretion at an entirely different mass scale, and are of interest as both low-frequency gravitational wave sources and possible progenitors of Type Ia supernovae)
+- Ultracompact white dwarf binaries (probes of accretion at an entirely different mass scale, and of interest as both low-frequency gravitational wave sources and possible progenitors of Type Ia supernovae)
 - High performance computing, data processing algorithms, survey science
+- X-ray astronomy
 
 A general theme of my research is studying compact object accretion and binaries across the mass scale. These systems can yield rich insights into atomic physics, plasma physics, and strong-field gravity, which are all exciting questions to me.
 
