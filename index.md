@@ -4,22 +4,23 @@ layout: homepage
 
 ## About Me
 
-I'm a second-year Ph.D. student at MIT working in observational high-energy astrophysics. My advisor is [Erin Kara](https://www.erinkara.space/), and I also work closely with [Kevin Burdge](https://physics.mit.edu/research/pappalardo-fellowships-in-physics/kevin-burdge/) and [Riccardo Arcodia](https://rarcodia.github.io/). I grew up in New Jersey, and studied astrophysics and computer science as an undergrad at Columbia.
+I'm a second-year Ph.D. student at MIT working in high-energy astrophysics. My advisor is [Erin Kara](https://www.erinkara.space/), and I also work closely with [Kevin Burdge](https://physics.mit.edu/research/pappalardo-fellowships-in-physics/kevin-burdge/) and [Riccardo Arcodia](https://rarcodia.github.io/). I grew up in New Jersey, and studied astrophysics and computer science as an undergrad at Columbia.
 
 ## Research Interests
 
 Currently I'm working on:
-- Supermassive black hole transients ([quasi-periodic eruptions](https://arxiv.org/ftp/arxiv/papers/1909/1909.04693.pdf), which may be an electromagnetic counterpart to [EMRIs](https://en.wikipedia.org/wiki/Extreme_mass_ratio_inspiral); and [tidal disruption events](https://en.wikipedia.org/wiki/Tidal_disruption_event), which are exciting laboratories to study super-Eddington accretion and general relativistic effects of massive BHs)
-- [Ultracompact white dwarf binaries](https://en.wikipedia.org/wiki/AM_Canum_Venaticorum_star) (probes of accretion at an entirely different mass scale, and of interest as both low-frequency gravitational wave sources and possible progenitors of Type Ia supernovae)
-- High performance computing & survey science; X-ray astronomy
+- [Quasi-Periodic Eruptions](https://arxiv.org/ftp/arxiv/papers/1909/1909.04693.pdf), which may be an electromagnetic counterpart to [EMRIs](https://en.wikipedia.org/wiki/Extreme_mass_ratio_inspiral); and [Tidal Disruption Events](https://en.wikipedia.org/wiki/Tidal_disruption_event), which are exciting laboratories to study super-Eddington accretion and general relativistic effects of massive BHs)
+- [Ultracompact white dwarf binaries](https://en.wikipedia.org/wiki/AM_Canum_Venaticorum_star) (probes of accretion at an entirely different mass scale, and of interest as both low-frequency (mHz) gravitational wave sources and possible progenitors of Type Ia supernovae)
+- High performance computing; X-ray astronomy
 
-A general theme of my research is studying compact object accretion and binaries across the mass scale. These systems can yield rich insights into atomic physics, plasma physics, and strong-field gravity, which are all exciting questions to me.
+A general theme of my research is studying compact object accretion and binaries across the mass scale. These systems yield rich insights into atomic physics, plasma physics, and strong-field gravity, which are all exciting questions to me.
 
 
 As an undergrad, I also worked on exoplanets, but those days are behind me.
 
 ## News
 
+- **[Jun. 2023]** I gave a [review talk](https://www.youtube.com/watch?v=TouwCqsbTMY) on QPEs at an IAS workshop
 - **[Mar. 2022]** QPE discovery featured in a [AAS Nova article](https://aasnova.org/2022/03/02/a-potential-new-source-of-quasi-periodic-eruptions)!
 
 ## Selected Publications
