@@ -9,7 +9,7 @@ I'm a second-year Ph.D. student at MIT working in high-energy astrophysics. My a
 ## Research Interests
 
 Currently I'm working on:
-- [Quasi-Periodic Eruptions](https://arxiv.org/ftp/arxiv/papers/1909/1909.04693.pdf), which may be an electromagnetic counterpart to [EMRIs](https://en.wikipedia.org/wiki/Extreme_mass_ratio_inspiral); and [Tidal Disruption Events](https://en.wikipedia.org/wiki/Tidal_disruption_event), which are exciting laboratories to study super-Eddington accretion and general relativistic effects of massive BHs)
+- [Quasi-Periodic Eruptions](https://arxiv.org/ftp/arxiv/papers/1909/1909.04693.pdf), which may be an electromagnetic counterpart to [EMRIs](https://en.wikipedia.org/wiki/Extreme_mass_ratio_inspiral); and [Tidal Disruption Events](https://en.wikipedia.org/wiki/Tidal_disruption_event), which are exciting laboratories to study super-Eddington accretion and general relativistic effects of massive black holes)
 - [Ultracompact white dwarf binaries](https://en.wikipedia.org/wiki/AM_Canum_Venaticorum_star) (probes of accretion at an entirely different mass scale, and of interest as both low-frequency (mHz) gravitational wave sources and possible progenitors of Type Ia supernovae)
 - High performance computing; X-ray astronomy
 
