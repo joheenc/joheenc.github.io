@@ -9,9 +9,9 @@ I'm a second-year PhD student at MIT working in high-energy astrophysics. My adv
 ## Research Interests
 
 Currently I'm working on:
-- [Quasi-Periodic Eruptions (QPEs)](https://arxiv.org/ftp/arxiv/papers/1909/1909.04693.pdf), a newly discovered recurring X-ray transient which may be an electromagnetic counterpart to [EMRIs](https://en.wikipedia.org/wiki/Extreme_mass_ratio_inspiral)
-- [Tidal Disruption Events](https://en.wikipedia.org/wiki/Tidal_disruption_event), which are exciting laboratories to probe accretion physics in strong gravity
-- [Ultracompact white dwarf binaries](https://en.wikipedia.org/wiki/AM_Canum_Venaticorum_star), which are probes of accretion at a much smaller mass scale, and interesting as both low-frequency (mHz) gravitational wave sources and possible progenitors of Type Ia supernovae
+- [Quasi-Periodic Eruptions (QPEs)](https://arxiv.org/ftp/arxiv/papers/1909/1909.04693.pdf), a newly discovered type of recurring X-ray transient which may be the first electromagnetic counterparts to [EMRIs](https://en.wikipedia.org/wiki/Extreme_mass_ratio_inspiral)
+- [Tidal Disruption Events](https://en.wikipedia.org/wiki/Tidal_disruption_event), which are exciting high-energy laboratories to probe accretion physics under strong gravity
+- [Ultracompact white dwarf binaries](https://en.wikipedia.org/wiki/AM_Canum_Venaticorum_star), which are interesting as both low-frequency (mHz) gravitational wave sources and possible progenitors of Type Ia supernovae
 - High performance computing; X-ray astronomy
 
 A general theme of my research is studying compact object accretion and binaries across the mass scale. These systems yield rich insights into plasma physics, atomic physics, and general relativity, which are all exciting areas to me.
