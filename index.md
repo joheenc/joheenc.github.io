@@ -12,7 +12,7 @@ Currently I'm working on:
 - [Quasi-Periodic Eruptions (QPEs)](https://arxiv.org/ftp/arxiv/papers/1909/1909.04693.pdf), a newly discovered type of recurring X-ray transient which may be the first-known electromagnetic counterparts to [EMRIs](https://en.wikipedia.org/wiki/Extreme_mass_ratio_inspiral)
 - [Tidal Disruption Events](https://en.wikipedia.org/wiki/Tidal_disruption_event), which are exciting high-energy laboratories to probe accretion physics under strong gravity
 - [Ultracompact white dwarf binaries](https://en.wikipedia.org/wiki/AM_Canum_Venaticorum_star), which are interesting as both low-frequency (mHz) gravitational wave sources and possible progenitors of Type Ia supernovae
-- High performance computing; X-ray astronomy
+- High performance computing; large-scale data analysis; X-ray astronomy
 
 The unyfing theme of my research is studying compact object accretion and binaries across the mass scale. These systems yield rich insights into plasma physics, atomic physics, and general relativity, which are all exciting areas to me.
 
