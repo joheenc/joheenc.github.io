@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a second-year PhD student at MIT working in high-energy astrophysics. My advisor is [Erin Kara](https://www.erinkara.space/), and I also work closely with [Kevin Burdge](https://physics.mit.edu/research/pappalardo-fellowships-in-physics/kevin-burdge/) and [Riccardo Arcodia](https://rarcodia.github.io/). I grew up in New Jersey, and studied astrophysics and computer science as an undergrad at Columbia.
+I'm a second-year PhD student at MIT working in high-energy astrophysics. My advisor is [Erin Kara](https://www.erinkara.space/), and I also work closely with [Kevin Burdge](https://physics.mit.edu/research/pappalardo-fellowships-in-physics/kevin-burdge/) and [Riccardo Arcodia](https://rarcodia.github.io/). I grew up in New Jersey, and studied astrophysics and computer science as an undergrad at Columbia. Here is a [nice poem](https://joheenc.github.io/elson.pdf) summarizing how I feel about my work.
 
 ## Research Interests
 
