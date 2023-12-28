@@ -14,7 +14,7 @@ Currently I'm working on:
 - [Ultracompact white dwarf binaries](https://en.wikipedia.org/wiki/AM_Canum_Venaticorum_star), which are interesting as both low-frequency (mHz) gravitational wave sources and possible progenitors of Type Ia supernovae
 - High performance computing; large-scale data analysis; X-ray astronomy
 
-The unyfing theme of my research is studying compact object accretion and binaries across the mass scale. These systems yield rich insights into plasma physics, atomic physics, and general relativity, which are all exciting areas to me.
+The unifying theme of my research is studying compact object accretion and binaries across the mass scale. These systems yield rich insights into plasma physics, atomic physics, and general relativity, which are all exciting areas to me.
 
 ## News
 
