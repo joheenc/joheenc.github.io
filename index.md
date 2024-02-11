@@ -10,7 +10,7 @@ I studied astrophysics and computer science as an undergrad at Columbia, where I
 
 ## Research Interests
 
-High-energy astrophysics provides unique laboratories for fundamental questions in strong gravity, plasma physics, and atomic physics, which are all interesting topics to me. My research broadly studies compact object accretion and binaries across the mass scale to uncover insights in these areas. Currently I'm working on:
+High-energy astrophysics provides unique laboratories for questions in strong gravity, plasma physics, and atomic physics, which are all interesting topics to me. My research broadly studies compact object accretion and binaries across the mass scale to uncover insights in these areas. Currently I'm working on:
 - [Quasi-Periodic Eruptions (QPEs)](https://arxiv.org/ftp/arxiv/papers/1909/1909.04693.pdf), a newly discovered type of recurring X-ray transient which may be the first-known electromagnetic counterparts to [EMRIs](https://en.wikipedia.org/wiki/Extreme_mass_ratio_inspiral)
 - [Tidal Disruption Events](https://en.wikipedia.org/wiki/Tidal_disruption_event), which are exciting high-energy systems to probe rapid accretion under strong gravity
 - [Ultracompact white dwarf binaries](https://en.wikipedia.org/wiki/AM_Canum_Venaticorum_star), which are interesting as both low-frequency (mHz) gravitational wave sources and possible progenitors of Type Ia supernovae
