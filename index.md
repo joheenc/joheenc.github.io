@@ -35,7 +35,7 @@ High-energy astrophysics provides unique laboratories for questions in strong gr
   <br>
   **Joheen Chakraborty**, Riccardo Arcodia, Erin Kara, Giovanni Miniutti, Margherita Giustini, et al.
   <br>
-  ApJ, Feb. 2024
+  Astrophyical Journal, Feb. 2024
   <br>
   [[PDF](https://arxiv.org/pdf/2402.08722.pdf)] [[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240208722C/abstract)]
   
