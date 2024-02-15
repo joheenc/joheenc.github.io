@@ -31,6 +31,14 @@ High-energy astrophysics provides unique laboratories for questions in strong gr
   <br>
   [[PDF](https://arxiv.org/pdf/2110.10786.pdf)] [[ADS](https://ui.adsabs.harvard.edu/abs/2021ApJ...921L..40C/abstract)]
   
+-**Testing EMRI models for Quasi-Periodic Eruptions with 3.5 years of monitoring eRO-QPE1**
+  <br>
+  **Joheen Chakraborty**, Riccardo Arcodia, Erin Kara, Giovanni Miniutti, Margherita Giustini, et al.
+  <br>
+  ApJ, Feb. 2024
+  <br>
+  [[PDF](https://arxiv.org/pdf/2402.08722.pdf)] [[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240208722C/abstract)]
+  
 - **Transit Duration and Timing Variations from Binary Planets**
   <br>
   **Joheen Chakraborty** & David Kipping
@@ -38,11 +46,3 @@ High-energy astrophysics provides unique laboratories for questions in strong gr
   MNRAS, Dec. 2022.
   <br>
   [[PDF](https://arxiv.org/pdf/2212.08078.pdf)] [[ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.3369C/abstract)]
-
-- **Hundreds of new periodic signals detected in the first year of TESS with the Weird Detector**
-  <br>
-  **Joheen Chakraborty**, Adam Wheeler, David Kipping
-  <br>
-  MNRAS, Dec. 2020.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2009.10232.pdf)] [[ADS](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.4011C/abstract)]
