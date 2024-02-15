@@ -31,7 +31,7 @@ High-energy astrophysics provides unique laboratories for questions in strong gr
   <br>
   [[PDF](https://arxiv.org/pdf/2110.10786.pdf)] [[ADS](https://ui.adsabs.harvard.edu/abs/2021ApJ...921L..40C/abstract)]
   
--**Testing EMRI models for Quasi-Periodic Eruptions with 3.5 years of monitoring eRO-QPE1**
+- **Testing EMRI models for Quasi-Periodic Eruptions with 3.5 years of monitoring eRO-QPE1**
   <br>
   **Joheen Chakraborty**, Riccardo Arcodia, Erin Kara, Giovanni Miniutti, Margherita Giustini, et al.
   <br>
