@@ -43,6 +43,6 @@ High-energy astrophysics provides unique laboratories for questions in strong gr
   <br>
   **Joheen Chakraborty** & David Kipping
   <br>
-  MNRAS, Dec. 2022.
+  MNRAS, Feb. 2023.
   <br>
   [[PDF](https://arxiv.org/pdf/2212.08078.pdf)] [[ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.3369C/abstract)]
