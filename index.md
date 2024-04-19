@@ -18,7 +18,7 @@ High-energy astrophysics provides unique laboratories for questions in strong gr
 
 ## News
 
-- **[Jun. 2023]** I gave a [review talk](https://www.youtube.com/watch?v=TouwCqsbTMY) on QPEs at an IAS workshop
+- **[Jun. 2023]** I gave an [overview talk on QPEs](https://www.youtube.com/watch?v=TouwCqsbTMY) at an IAS workshop
 - **[Mar. 2022]** QPE discovery featured in a [AAS Nova article](https://aasnova.org/2022/03/02/a-potential-new-source-of-quasi-periodic-eruptions)!
 
 ## Selected Publications
