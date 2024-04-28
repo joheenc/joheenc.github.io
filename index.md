@@ -10,16 +10,11 @@ I studied astrophysics and computer science as an undergrad at Columbia, where I
 
 ## Research Interests
 
-High-energy astrophysics provides unique laboratories for questions in strong gravity, plasma physics, and atomic physics, which are all interesting topics to me. My research broadly studies compact object accretion and binaries across the mass scale to uncover insights in these areas. Currently I'm working on:
+High-energy astrophysics provides unique laboratories for questions in strong gravity, plasma physics, and atomic physics, and my research broadly studies compact object accretion and binaries to uncover insights in these areas. Currently I'm working on:
 - [Quasi-Periodic Eruptions (QPEs)](https://arxiv.org/ftp/arxiv/papers/1909/1909.04693.pdf), a newly discovered type of recurring X-ray transient which may be the first-known electromagnetic counterparts to [EMRIs](https://en.wikipedia.org/wiki/Extreme_mass_ratio_inspiral)
 - [Tidal Disruption Events](https://en.wikipedia.org/wiki/Tidal_disruption_event), which are exciting high-energy systems to probe rapid accretion under strong gravity
 - [Ultracompact binaries](https://en.wikipedia.org/wiki/AM_Canum_Venaticorum_star), which are interesting as both low-frequency (mHz) gravitational wave sources and possible progenitors of Type Ia supernovae
 - High performance computing; large-scale data analysis; X-ray astronomy
-
-## News
-
-- **[Jun. 2023]** I gave an [overview talk on QPEs](https://www.youtube.com/watch?v=TouwCqsbTMY) at an IAS workshop
-- **[Mar. 2022]** QPE discovery featured in a [AAS Nova article](https://aasnova.org/2022/03/02/a-potential-new-source-of-quasi-periodic-eruptions)!
 
 ## Selected Publications
 
@@ -29,7 +24,7 @@ High-energy astrophysics provides unique laboratories for questions in strong gr
   <br>
   Astrophysical Journal Letters, Nov. 2021.
   <br>
-  [[PDF](https://arxiv.org/pdf/2110.10786.pdf)] [[ADS](https://ui.adsabs.harvard.edu/abs/2021ApJ...921L..40C/abstract)]
+  [[arXiv](https://arxiv.org/abs/2110.10786)] [[ADS](https://ui.adsabs.harvard.edu/abs/2021ApJ...921L..40C/abstract)] [[Talk](https://www.youtube.com/watch?v=TouwCqsbTMY)] [[Press](https://aasnova.org/2022/03/02/a-potential-new-source-of-quasi-periodic-eruptions)]
   
 - **Testing EMRI models for Quasi-Periodic Eruptions with 3.5 years of monitoring eRO-QPE1**
   <br>
@@ -37,7 +32,7 @@ High-energy astrophysics provides unique laboratories for questions in strong gr
   <br>
   Astrophyical Journal, Feb. 2024
   <br>
-  [[PDF](https://arxiv.org/pdf/2402.08722.pdf)] [[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240208722C/abstract)]
+  [[arXiv](https://arxiv.org/abs/2402.08722)] [[ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...965...12C/abstract)] [[Talk](https://www.youtube.com/watch?v=i0vURCkWe_o)]
   
 - **Transit Duration and Timing Variations from Binary Planets**
   <br>
@@ -45,4 +40,4 @@ High-energy astrophysics provides unique laboratories for questions in strong gr
   <br>
   MNRAS, Feb. 2023.
   <br>
-  [[PDF](https://arxiv.org/pdf/2212.08078.pdf)] [[ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.3369C/abstract)]
+  [[arXiv](https://arxiv.org/abs/2212.08078)] [[ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.3369C/abstract)]
