@@ -6,7 +6,7 @@ layout: homepage
 
 I'm a second-year PhD student at MIT working in high-energy astrophysics. My advisor is [Erin Kara](https://www.erinkara.space/), and I also work closely with [Kevin Burdge](https://physics.mit.edu/research/pappalardo-fellowships-in-physics/kevin-burdge/) and [Riccardo Arcodia](https://rarcodia.github.io/).
 
-I studied astrophysics and computer science as an undergrad at Columbia, where I worked with [Frits Paerels](http://user.astro.columbia.edu/~frits/Frits.html) on X-ray astronomy and [David Kipping](https://www.coolworldslab.com) on extrasolar planets, graduating in 2022. Before that, I grew up in suburban New Jersey.
+I studied astrophysics and computer science as an undergrad at Columbia, where I worked with [Frits Paerels](http://user.astro.columbia.edu/~frits/Frits.html) on X-ray astronomy and [David Kipping](https://www.coolworldslab.com) on extrasolar planets, graduating in 2022. Before that, I grew up in Edison, New Jersey.
 
 ## Research Interests
 
