@@ -32,7 +32,7 @@ High-energy astrophysics provides unique laboratories to study strong gravity, p
   <br>
   Astrophyical Journal, Apr. 2024
   <br>
-  [[arXiv](https://arxiv.org/abs/2402.08722)] [[ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...965...12C/abstract)] [[Talk](https://www.youtube.com/watch?v=i0vURCkWe_o)]
+  [[arXiv](https://arxiv.org/abs/2402.08722)] [[ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...965...12C/abstract)] [[Talk](https://www.youtube.com/watch?v=i0vURCkWe_o)] [[Press](https://heasarc.gsfc.nasa.gov/docs/nicer/science_nuggets/20240606.html)]
   
 - **Transit Duration and Timing Variations from Binary Planets**
   <br>
