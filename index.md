@@ -12,8 +12,8 @@ I studied astrophysics and computer science as an undergrad at Columbia, where I
 
 High-energy astrophysics provides unique laboratories to study systems mediated by strong gravity, plasma physics, and atomic physics; my research broadly studies compact object accretion and binaries to uncover insights in these areas. Currently I'm working on:
 - [Quasi-Periodic Eruptions (QPEs)](https://www.nature.com/articles/s41586-019-1556-x), a newly discovered type of recurring X-ray transient which may be the first-known electromagnetic counterparts to [EMRIs](https://en.wikipedia.org/wiki/Extreme_mass_ratio_inspiral)
-- [Tidal Disruption Events](https://en.wikipedia.org/wiki/Tidal_disruption_event), which are exciting high-energy systems to probe rapid accretion under strong gravity
 - [Ultracompact binaries](https://en.wikipedia.org/wiki/AM_Canum_Venaticorum_star), which are the dominant low-frequency (mHz) gravitational wave sources in the galaxy
+- [Tidal Disruption Events](https://en.wikipedia.org/wiki/Tidal_disruption_event), which are exciting high-energy systems to probe rapid accretion under strong gravity
 - High performance computing; large-scale data analysis; X-ray astronomy
 
 ## Selected Publications
