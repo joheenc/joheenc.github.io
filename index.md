@@ -20,7 +20,7 @@ High-energy astrophysics provides unique laboratories to study systems mediated 
 
 - **Possible X-Ray Quasi-periodic Eruptions in a Tidal Disruption Event Candidate**
   <br>
-  **Joheen Chakraborty**, Erin Kara, Megan Masterson, Margherita Giustini, Giovanni Miniutti, Richard Saxton
+  Joheen Chakraborty, Erin Kara, Megan Masterson, Margherita Giustini, Giovanni Miniutti, Richard Saxton
   <br>
   Astrophysical Journal Letters, Nov. 2021.
   <br>
@@ -28,16 +28,16 @@ High-energy astrophysics provides unique laboratories to study systems mediated 
   
 - **Testing EMRI models for Quasi-Periodic Eruptions with 3.5 years of monitoring eRO-QPE1**
   <br>
-  **Joheen Chakraborty**, Riccardo Arcodia, Erin Kara, Giovanni Miniutti, Margherita Giustini, et al.
+  Joheen Chakraborty, Riccardo Arcodia, Erin Kara, Giovanni Miniutti, Margherita Giustini, et al.
   <br>
   Astrophyical Journal, Apr. 2024
   <br>
   [[arXiv](https://arxiv.org/abs/2402.08722)] [[ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...965...12C/abstract)] [[Talk](https://www.youtube.com/watch?v=i0vURCkWe_o)] [[Press](https://heasarc.gsfc.nasa.gov/docs/nicer/science_nuggets/20240606.html)]
   
-- **Transit Duration and Timing Variations from Binary Planets**
+- **Expanding the ultracompacts: gravitational wave-driven mass transfer in the shortest-period binaries with accretion disks**
   <br>
-  **Joheen Chakraborty** & David Kipping
+  Joheen Chakraborty, Kevin Burdge, Saul Rappaport, James Munday, et al.
   <br>
-  MNRAS, Feb. 2023.
+  ApJ, in press.
   <br>
-  [[arXiv](https://arxiv.org/abs/2212.08078)] [[ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.3369C/abstract)]
+  [[arXiv](https://arxiv.org/abs/2411.12796)]
