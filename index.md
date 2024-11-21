@@ -42,4 +42,4 @@ High-energy astrophysics provides unique laboratories to study systems mediated 
   <br>
   [[arXiv](https://arxiv.org/abs/2411.12796)]
 
-You can find all of my papers [here](https://ui.adsabs.harvard.edu/public-libraries/ok8XrfneQjOLDGnOZQI_IA), and my first-/second-author papers [here](https://ui.adsabs.harvard.edu/public-libraries/Kz1T3Z9WSKGtavgXv--bHA).
+You can find my first-/second-author papers [here](https://ui.adsabs.harvard.edu/public-libraries/Kz1T3Z9WSKGtavgXv--bHA), and all papers I've been on [here](https://ui.adsabs.harvard.edu/public-libraries/ok8XrfneQjOLDGnOZQI_IA).
