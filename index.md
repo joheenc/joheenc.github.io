@@ -18,7 +18,7 @@ High-energy astrophysics provides unique laboratories to study systems mediated 
 
 ## Selected Publications
 
-- **Possible X-Ray Quasi-periodic Eruptions in a Tidal Disruption Event Candidate**
+- **Possible x-ray quasi-periodic eruptions in a tidal disruption event candidate**
   <br>
   Joheen Chakraborty, Erin Kara, Megan Masterson, Margherita Giustini, Giovanni Miniutti, Richard Saxton
   <br>
@@ -26,7 +26,7 @@ High-energy astrophysics provides unique laboratories to study systems mediated 
   <br>
   [[arXiv](https://arxiv.org/abs/2110.10786)] [[ADS](https://ui.adsabs.harvard.edu/abs/2021ApJ...921L..40C/abstract)] [[Talk](https://www.youtube.com/watch?v=TouwCqsbTMY)] [[Press](https://aasnova.org/2022/03/02/a-potential-new-source-of-quasi-periodic-eruptions)]
   
-- **Testing EMRI models for Quasi-Periodic Eruptions with 3.5 years of monitoring eRO-QPE1**
+- **Testing EMRI models for quasi-periodic eruptions with 3.5 years of monitoring eRO-QPE1**
   <br>
   Joheen Chakraborty, Riccardo Arcodia, Erin Kara, Giovanni Miniutti, Margherita Giustini, et al.
   <br>
